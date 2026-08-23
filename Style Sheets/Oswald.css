@@ -1,0 +1,13 @@
+body {
+    Background-color: #f75590;
+}
+@font-face {
+    font-family: myFont;
+    src: url("./Fonts/cat_paw/Cat paw.ttf"
+    );
+}
+h1 {
+    font-family: myFont; 
+    font-weight: lighter
+    ;
+}
